@@ -1,1 +1,1 @@
-Descrição atualizada do projeto
+Descrição
